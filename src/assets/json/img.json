@@ -1,0 +1,10 @@
+{
+    "images":[
+        {
+            "src": "../qa.jpg"
+        },
+        {
+            "src": "../../assets/qa.jpg"
+        }
+    ]
+}
